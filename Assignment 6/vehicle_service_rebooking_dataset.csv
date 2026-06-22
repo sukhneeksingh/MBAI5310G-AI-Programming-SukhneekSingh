@@ -1,0 +1,361 @@
+customer_id,age,age_group,gender,region,vehicle_type,service_type,customer_segment,vehicle_age_years,mileage_km,last_service_cost,number_of_previous_services,days_since_last_service,service_rating,waiting_time_minutes,coupon_used,service_rebooked
+VS0001,56,51+,Male,East,Electric,Inspection,New,2,43797,1417.36,7,233,2,137,No,0
+VS0002,40,36-50,Female,North,Sedan,Repair,Returning,8,57409,688.43,8,473,5,107,No,0
+VS0003,45,36-50,Male,East,Hybrid,Brake Service,Returning,13,39674,217.13,9,394,2,25,No,0
+VS0004,65,51+,Female,East,Hybrid,Brake Service,Returning,5,243134,1676.28,10,486,3,11,Yes,0
+VS0005,48,36-50,Male,East,SUV,Repair,Returning,4,212670,557.89,18,314,2,121,Yes,0
+VS0006,25,18-25,Male,East,Electric,Inspection,Loyal,5,250027,1196.34,5,329,2,173,Yes,0
+VS0007,60,51+,Male,East,Electric,Inspection,Returning,4,57844,1577.47,2,463,2,96,Yes,0
+VS0008,58,51+,Female,West,Electric,Repair,Loyal,5,155997,1142.21,8,80,5,133,Yes,1
+VS0009,70,51+,Male,South,Truck,Oil Change,Loyal,14,12171,167.88,1,183,2,174,Yes,0
+VS0010,47,36-50,Female,South,Hybrid,Brake Service,Returning,15,41430,1037.66,18,185,1,97,No,0
+VS0011,64,51+,Female,South,Sedan,Brake Service,Returning,13,24119,717.7,5,341,4,86,Yes,0
+VS0012,23,18-25,Male,South,Electric,Tire Service,Loyal,1,62579,613.19,6,456,5,66,Yes,0
+VS0013,62,51+,Male,North,SUV,Repair,Fleet,3,192742,1776.6,3,453,1,109,No,0
+VS0014,61,51+,Female,North,SUV,Repair,Returning,8,92559,149.79,2,248,1,96,Yes,0
+VS0015,41,36-50,Male,South,SUV,Brake Service,Fleet,10,37198,1623.95,2,168,1,45,No,0
+VS0016,73,51+,Female,South,Electric,Brake Service,Returning,12,254935,1651.06,17,395,2,30,No,0
+VS0017,42,36-50,Male,East,Sedan,Repair,Returning,2,195077,311.0,17,519,4,116,No,0
+VS0018,60,51+,Female,West,SUV,Repair,New,12,163203,1551.07,7,598,4,159,Yes,0
+VS0019,67,51+,Female,West,Truck,Tire Service,Loyal,9,75448,1372.66,9,472,2,31,No,0
+VS0020,31,26-35,Female,East,Truck,Brake Service,Returning,1,255871,96.44,18,411,5,16,Yes,1
+VS0021,60,51+,Female,South,SUV,Repair,Loyal,13,55267,1024.23,13,626,4,160,Yes,0
+VS0022,65,51+,Male,East,SUV,Repair,New,1,61512,1767.5,12,237,4,96,No,0
+VS0023,33,26-35,Male,West,Truck,Inspection,Returning,13,224799,301.35,6,61,5,65,Yes,1
+VS0024,51,51+,Male,West,Truck,Oil Change,Loyal,18,105423,1743.92,1,288,2,19,Yes,0
+VS0025,76,51+,Female,West,Hybrid,Inspection,Returning,11,126352,,3,110,2,23,No,0
+VS0026,41,36-50,Male,North,Hybrid,Brake Service,New,11,73578,419.08,7,218,1,40,Yes,0
+VS0027,66,51+,Male,South,Sedan,Brake Service,Loyal,14,157858,260.98,16,574,3,105,Yes,0
+VS0028,29,26-35,Male,East,Sedan,Oil Change,Returning,18,151085,1673.09,17,292,2,138,Yes,0
+VS0029,43,36-50,Male,South,Truck,Tire Service,Returning,4,135698,1017.31,8,35,4,29,No,1
+VS0030,19,18-25,Female,West,Hybrid,Tire Service,New,4,32384,545.3,7,319,2,108,Yes,0
+VS0031,32,26-35,Male,South,Truck,Oil Change,Fleet,12,156222,1444.81,18,498,2,19,No,1
+VS0032,19,18-25,Male,North,Truck,Brake Service,New,18,182655,501.0,13,348,5,114,Yes,0
+VS0033,21,18-25,Female,North,Truck,Brake Service,New,1,188871,497.6,2,635,3,12,Yes,0
+VS0034,47,36-50,Male,West,SUV,Tire Service,Returning,7,117220,170.04,0,231,1,46,No,0
+VS0035,59,51+,Male,West,Sedan,Brake Service,Returning,11,52416,153.3,6,72,4,21,No,0
+VS0036,46,36-50,Male,East,Sedan,Tire Service,New,4,8785,608.11,12,458,3,50,No,0
+VS0037,45,36-50,Female,West,Hybrid,Brake Service,Loyal,3,181777,1315.78,4,513,3,63,Yes,0
+VS0038,24,18-25,Female,North,Truck,Brake Service,Fleet,3,234310,688.0,11,638,3,86,Yes,0
+VS0039,49,36-50,Male,North,Truck,Tire Service,Returning,1,67388,1356.82,4,156,3,25,Yes,1
+VS0040,24,18-25,Male,East,Sedan,Inspection,Returning,7,219424,,15,233,1,168,No,0
+VS0041,56,51+,Female,South,Sedan,Repair,Returning,16,62949,1335.48,7,149,3,56,Yes,1
+VS0042,33,26-35,Male,West,Hybrid,Repair,Loyal,11,63433,1551.2,3,289,4,64,No,0
+VS0043,61,51+,Male,West,SUV,Oil Change,New,1,106231,659.36,11,471,1,56,Yes,0
+VS0044,76,51+,Male,West,Electric,Inspection,New,8,118597,454.24,8,89,2,133,No,0
+VS0045,72,51+,Female,West,Sedan,Oil Change,Returning,12,196914,1327.75,1,180,2,12,No,0
+VS0046,70,51+,Female,East,Electric,Inspection,Returning,14,65964,1362.01,9,647,3,94,Yes,0
+VS0047,60,51+,Female,North,Electric,Oil Change,Returning,11,198642,1233.97,18,612,1,152,No,0
+VS0048,65,51+,Male,North,Sedan,Repair,Returning,17,180303,578.97,12,82,3,155,No,0
+VS0049,38,36-50,Male,South,Truck,Brake Service,Loyal,17,91605,1388.16,13,104,5,77,No,1
+VS0050,40,36-50,Female,West,Hybrid,Repair,New,5,44854,1458.65,12,594,2,73,Yes,0
+VS0051,25,18-25,Male,East,Truck,Inspection,New,3,132574,680.27,11,437,4,65,Yes,0
+VS0052,48,36-50,Male,West,Truck,Inspection,New,12,161068,1310.04,7,230,4,38,Yes,1
+VS0053,55,51+,Male,North,Electric,Repair,New,2,188394,258.56,6,218,4,56,Yes,0
+VS0054,30,26-35,Female,North,SUV,Oil Change,Returning,1,171399,1210.23,16,645,4,106,Yes,0
+VS0055,56,51+,Male,South,Electric,Oil Change,Returning,9,15482,,5,362,2,109,Yes,0
+VS0056,35,26-35,Female,South,Sedan,Repair,Returning,14,37214,1609.9,6,55,5,166,Yes,0
+VS0057,66,51+,Male,West,Electric,Tire Service,New,4,123661,1716.13,6,450,4,20,Yes,0
+VS0058,69,51+,Male,North,Truck,Inspection,New,16,154116,1773.78,10,548,4,112,No,0
+VS0059,49,36-50,Female,South,Sedan,Brake Service,Returning,18,156030,1516.79,9,119,5,77,No,1
+VS0060,47,36-50,Female,South,SUV,Oil Change,New,12,15507,60.41,7,457,2,110,Yes,0
+VS0061,77,51+,Female,North,Sedan,Tire Service,Returning,16,198369,1475.27,11,497,4,149,No,0
+VS0062,34,26-35,Male,South,SUV,Oil Change,Fleet,7,79959,417.56,13,181,2,126,Yes,1
+VS0063,26,26-35,Male,South,SUV,Inspection,Returning,12,219318,1352.73,6,59,4,90,No,1
+VS0064,58,51+,Female,North,Truck,Repair,Returning,9,191402,1328.79,0,482,4,125,No,0
+VS0065,53,51+,Female,West,SUV,Repair,New,13,82837,538.05,16,471,5,22,Yes,1
+VS0066,63,51+,Male,North,Electric,Oil Change,New,16,227827,1780.52,10,358,2,112,No,0
+VS0067,77,51+,Female,East,Hybrid,Inspection,Fleet,12,192561,807.4,13,210,2,85,No,0
+VS0068,31,26-35,Female,West,Sedan,Repair,New,8,124040,532.69,17,208,2,106,No,0
+VS0069,39,36-50,Female,North,Truck,Oil Change,Returning,15,249893,146.92,7,635,3,66,Yes,0
+VS0070,42,36-50,Male,North,Electric,Brake Service,Loyal,3,168554,1617.97,7,138,2,93,No,0
+VS0071,49,36-50,Female,South,Sedan,Tire Service,Returning,3,22678,229.63,12,559,4,132,No,0
+VS0072,20,18-25,Female,South,Truck,Inspection,New,5,212518,241.53,8,544,3,32,No,0
+VS0073,46,36-50,Female,South,Truck,Brake Service,Loyal,6,252097,1232.94,11,226,3,124,Yes,1
+VS0074,33,26-35,Male,West,SUV,Repair,Loyal,17,150458,559.86,5,457,4,52,No,0
+VS0075,56,51+,Female,South,SUV,Tire Service,Loyal,17,110693,747.48,16,486,3,106,No,0
+VS0076,23,18-25,Male,East,Sedan,Tire Service,Loyal,16,258195,467.53,2,54,1,130,No,0
+VS0077,42,36-50,Male,North,Truck,Tire Service,Returning,4,22563,1541.13,11,508,4,134,No,0
+VS0078,56,51+,Female,South,Electric,Oil Change,Returning,15,136136,854.53,4,295,3,152,No,0
+VS0079,75,51+,Male,North,SUV,Brake Service,Returning,14,30342,1200.53,17,606,3,19,Yes,0
+VS0080,26,26-35,Male,South,Sedan,Tire Service,Returning,3,97279,1780.48,15,159,5,103,Yes,1
+VS0081,36,36-50,Male,East,SUV,Tire Service,Fleet,10,143112,1218.41,2,323,2,73,No,0
+VS0082,29,26-35,Male,North,Electric,Repair,New,10,109674,845.29,0,301,1,127,Yes,0
+VS0083,48,36-50,Male,West,Electric,Inspection,Returning,18,210234,1006.52,7,270,3,148,Yes,0
+VS0084,23,18-25,Female,West,Sedan,Tire Service,Returning,11,79034,1503.94,5,196,2,161,No,0
+VS0085,25,18-25,Female,North,Truck,Brake Service,Fleet,10,245746,722.55,12,106,2,167,No,0
+VS0086,60,51+,Male,South,Sedan,Repair,Loyal,13,85870,216.61,12,583,2,21,No,0
+VS0087,26,26-35,Female,North,Truck,Inspection,Loyal,6,63711,1202.74,15,54,1,177,No,0
+VS0088,54,51+,Male,West,Sedan,Repair,New,8,130026,88.33,10,60,1,62,Yes,0
+VS0089,36,36-50,Male,South,Sedan,Inspection,Loyal,14,155224,1723.92,14,255,2,124,No,0
+VS0090,76,51+,Male,North,Electric,Brake Service,New,16,87354,709.59,6,472,5,58,No,0
+VS0091,41,36-50,Male,North,Truck,Tire Service,Loyal,2,63982,1425.33,14,215,4,112,No,1
+VS0092,29,26-35,Male,South,Electric,Inspection,New,10,38018,1282.14,6,208,2,155,No,0
+VS0093,56,51+,Male,South,Electric,Brake Service,Returning,16,127449,823.24,4,520,2,155,No,0
+VS0094,63,51+,Female,West,Sedan,Brake Service,New,15,70433,307.16,15,500,2,64,Yes,0
+VS0095,56,51+,Male,North,Electric,Inspection,Loyal,10,88251,216.01,15,448,1,90,No,0
+VS0096,76,51+,Female,North,Truck,Repair,Fleet,11,98336,112.64,5,303,3,60,No,0
+VS0097,20,18-25,Male,South,Truck,Inspection,Returning,5,235584,,13,159,2,94,Yes,0
+VS0098,25,18-25,Male,North,SUV,Tire Service,Returning,13,220677,139.92,12,243,2,90,No,0
+VS0099,78,51+,Male,West,Hybrid,Inspection,Loyal,4,197433,1773.61,2,629,3,117,No,0
+VS0100,41,36-50,Female,East,Hybrid,Oil Change,Loyal,11,33492,206.16,14,531,4,24,No,0
+VS0101,45,36-50,Female,West,Hybrid,Brake Service,Loyal,3,160360,1192.0,10,240,2,13,No,1
+VS0102,41,36-50,Male,South,Electric,Brake Service,Loyal,4,199116,455.88,17,282,1,105,Yes,0
+VS0103,69,51+,Female,East,Truck,Brake Service,New,6,214856,709.17,12,89,5,39,Yes,1
+VS0104,54,51+,Male,East,Hybrid,Tire Service,Returning,16,109919,1273.17,5,605,4,140,No,0
+VS0105,48,36-50,Male,East,SUV,Brake Service,Returning,9,91556,1167.1,17,411,4,136,Yes,0
+VS0106,39,36-50,Male,East,Hybrid,Tire Service,Returning,13,22597,1740.58,16,138,1,34,No,0
+VS0107,68,51+,Female,South,Electric,Tire Service,New,12,75174,1523.69,18,409,1,102,Yes,0
+VS0108,43,36-50,Female,East,Electric,Repair,Returning,10,66496,366.86,11,496,5,30,No,1
+VS0109,38,36-50,Male,West,Sedan,Oil Change,Loyal,5,173131,502.04,6,73,2,161,No,0
+VS0110,54,51+,Male,South,Electric,Brake Service,Loyal,15,59636,1649.29,2,26,1,8,No,1
+VS0111,60,51+,Male,West,SUV,Repair,Returning,9,9419,297.17,10,350,2,84,Yes,0
+VS0112,38,36-50,Male,North,Electric,Inspection,Loyal,7,190687,1005.53,12,549,4,135,Yes,0
+VS0113,43,36-50,Male,West,Hybrid,Brake Service,Loyal,14,48574,1678.02,6,307,4,14,Yes,0
+VS0114,74,51+,Female,East,Electric,Brake Service,Loyal,15,117089,86.18,10,180,2,18,No,0
+VS0115,63,51+,Female,South,Electric,Oil Change,Returning,7,59228,371.71,1,334,2,20,Yes,0
+VS0116,45,36-50,Female,North,SUV,Repair,New,4,185557,196.07,16,147,5,158,No,1
+VS0117,36,36-50,Male,South,Sedan,Repair,New,4,104554,698.49,9,135,2,48,No,0
+VS0118,76,51+,Female,East,Hybrid,Inspection,Returning,14,236341,144.73,17,354,1,99,Yes,0
+VS0119,47,36-50,Female,West,Hybrid,Repair,Returning,5,185189,116.58,7,528,1,81,Yes,0
+VS0120,25,18-25,Female,South,Sedan,Oil Change,New,15,211255,,14,566,4,60,Yes,0
+VS0121,69,51+,Male,South,Hybrid,Repair,Returning,16,68002,1431.01,17,104,3,22,No,1
+VS0122,27,26-35,Female,North,Sedan,Tire Service,New,12,36520,305.98,1,417,2,117,No,0
+VS0123,32,26-35,Female,South,Sedan,Oil Change,Returning,18,94460,85.92,6,617,2,40,No,0
+VS0124,43,36-50,Male,North,SUV,Repair,Fleet,17,252722,1597.57,4,244,4,40,Yes,0
+VS0125,56,51+,Female,North,Electric,Brake Service,Loyal,13,17840,378.03,6,64,4,127,No,1
+VS0126,51,51+,Male,North,Truck,Brake Service,New,17,175256,855.44,8,397,4,88,No,0
+VS0127,76,51+,Female,West,SUV,Inspection,Loyal,16,16681,1720.97,0,484,2,104,No,0
+VS0128,24,18-25,Female,East,Hybrid,Brake Service,Loyal,1,157097,100.79,14,385,4,21,No,0
+VS0129,57,51+,Male,East,SUV,Repair,New,6,83890,1609.83,1,494,5,25,Yes,0
+VS0130,57,51+,Female,South,SUV,Tire Service,New,4,70034,177.03,5,390,5,180,No,0
+VS0131,33,26-35,Female,West,Sedan,Inspection,New,14,210878,549.27,9,604,4,31,Yes,0
+VS0132,51,51+,Male,East,SUV,Repair,Loyal,8,221138,495.57,14,412,5,76,No,1
+VS0133,32,26-35,Female,East,SUV,Brake Service,New,2,149478,1057.85,3,633,4,150,No,0
+VS0134,28,26-35,Male,South,Hybrid,Oil Change,Loyal,15,195332,757.03,7,166,2,152,No,0
+VS0135,44,36-50,Male,North,Sedan,Brake Service,Fleet,9,78716,975.81,8,527,5,124,No,0
+VS0136,28,26-35,Female,South,Sedan,Brake Service,Loyal,6,168498,671.67,12,312,4,120,Yes,0
+VS0137,49,36-50,Female,South,SUV,Repair,Loyal,1,250870,1081.84,7,67,5,83,No,1
+VS0138,23,18-25,Female,South,Hybrid,Repair,Returning,11,190926,452.75,9,129,5,136,No,1
+VS0139,53,51+,Male,South,Truck,Repair,Returning,6,45168,274.48,0,238,3,73,Yes,0
+VS0140,38,36-50,Female,West,Truck,Oil Change,Fleet,16,25522,693.89,2,532,3,153,No,0
+VS0141,31,26-35,Female,East,SUV,Repair,Returning,14,141533,1214.24,13,517,3,165,Yes,0
+VS0142,49,36-50,Male,West,SUV,Brake Service,Returning,7,151892,463.47,12,196,4,92,No,0
+VS0143,55,51+,Male,South,SUV,Tire Service,Fleet,1,33670,1408.22,14,356,4,92,No,1
+VS0144,55,51+,Male,North,Electric,Brake Service,New,4,43125,1393.72,3,250,4,162,No,0
+VS0145,65,51+,Male,West,SUV,Oil Change,New,7,197616,1684.82,0,306,1,134,No,0
+VS0146,30,26-35,Male,South,SUV,Oil Change,Returning,15,17822,1530.09,13,78,2,152,Yes,0
+VS0147,67,51+,Female,North,Sedan,Inspection,Returning,18,213394,96.14,10,66,3,34,Yes,1
+VS0148,30,26-35,Male,West,SUV,Repair,Loyal,10,198014,487.41,0,311,5,54,Yes,0
+VS0149,26,26-35,Male,East,Electric,Tire Service,Returning,5,256626,1455.45,12,609,1,50,Yes,0
+VS0150,38,36-50,Male,West,SUV,Oil Change,Loyal,14,159233,354.24,16,476,1,160,Yes,0
+VS0151,72,51+,Male,East,SUV,Oil Change,New,4,61593,1616.65,5,54,3,133,Yes,0
+VS0152,47,36-50,Male,South,SUV,Repair,New,13,249040,865.47,0,178,5,31,No,0
+VS0153,54,51+,Male,North,Hybrid,Oil Change,Returning,9,118613,430.02,11,129,2,118,No,0
+VS0154,39,36-50,Female,South,Hybrid,Inspection,New,14,221022,1233.02,3,607,4,48,No,0
+VS0155,67,51+,Male,North,Electric,Inspection,New,2,222451,1291.4,1,175,1,128,No,0
+VS0156,21,18-25,Male,North,SUV,Repair,Returning,7,35538,242.48,14,536,4,8,Yes,1
+VS0157,77,51+,Female,East,Hybrid,Repair,Returning,2,235831,222.11,4,366,4,22,No,0
+VS0158,22,18-25,Male,West,SUV,Tire Service,Loyal,14,258311,1296.55,13,413,1,70,Yes,0
+VS0159,23,18-25,Female,South,Sedan,Tire Service,Loyal,6,126155,1568.48,15,277,5,143,Yes,0
+VS0160,58,51+,Female,South,Truck,Repair,Fleet,13,118563,1607.14,18,347,2,40,No,0
+VS0161,68,51+,Male,West,SUV,Oil Change,Returning,17,41417,1709.01,9,171,1,18,No,0
+VS0162,35,26-35,Male,East,Electric,Brake Service,Returning,9,231541,1570.81,17,554,4,134,No,0
+VS0163,54,51+,Male,West,Hybrid,Repair,New,18,244360,435.7,18,550,5,43,Yes,1
+VS0164,64,51+,Male,West,SUV,Repair,Returning,2,110916,1418.51,1,450,1,49,Yes,0
+VS0165,27,26-35,Male,East,Hybrid,Brake Service,Returning,2,228178,1480.53,9,53,4,168,Yes,1
+VS0166,20,18-25,Male,North,SUV,Inspection,Loyal,12,180367,540.53,10,641,1,95,Yes,0
+VS0167,67,51+,Female,East,Hybrid,Repair,Returning,9,131399,1766.37,17,414,1,94,Yes,0
+VS0168,47,36-50,Female,North,Hybrid,Oil Change,Loyal,7,103444,1407.92,12,34,1,108,No,1
+VS0169,18,18-25,Male,West,Electric,Oil Change,Loyal,16,107280,1031.49,4,475,1,18,No,0
+VS0170,67,51+,Male,South,Electric,Oil Change,Returning,11,186425,663.94,2,131,4,67,No,0
+VS0171,20,18-25,Female,North,SUV,Inspection,Returning,7,68759,1047.12,3,641,5,119,No,0
+VS0172,61,51+,Male,West,Sedan,Tire Service,Loyal,4,14567,569.13,5,169,4,102,Yes,1
+VS0173,57,51+,Female,South,Hybrid,Oil Change,Returning,1,168878,558.15,15,65,1,136,Yes,0
+VS0174,45,36-50,Female,North,SUV,Repair,New,12,191616,842.0,7,122,2,124,Yes,0
+VS0175,50,36-50,Male,West,SUV,Oil Change,Returning,10,75577,774.96,13,488,3,154,Yes,0
+VS0176,76,51+,Female,North,SUV,Inspection,Loyal,14,92379,396.92,10,259,3,83,No,0
+VS0177,21,18-25,Female,South,Electric,Tire Service,Returning,8,224149,482.11,3,407,1,24,No,0
+VS0178,72,51+,Female,East,Sedan,Tire Service,Loyal,8,89837,884.86,16,293,2,102,No,0
+VS0179,40,36-50,Male,West,Electric,Repair,Returning,4,50498,647.26,5,32,4,129,No,0
+VS0180,19,18-25,Male,North,Hybrid,Brake Service,New,5,252583,966.39,10,47,3,37,No,0
+VS0181,45,36-50,Male,South,Truck,Brake Service,New,17,62831,897.76,4,85,4,128,No,0
+VS0182,60,51+,Female,East,SUV,Inspection,Fleet,18,14831,818.17,8,305,4,167,Yes,0
+VS0183,46,36-50,Male,North,Truck,Repair,Returning,4,210323,1745.71,9,342,1,57,Yes,0
+VS0184,50,36-50,Male,South,Electric,Inspection,Fleet,17,105092,,15,310,2,75,No,1
+VS0185,53,51+,Male,North,Hybrid,Inspection,Returning,10,90114,492.27,2,419,4,37,No,0
+VS0186,64,51+,Female,West,Sedan,Inspection,Returning,5,22836,,15,229,4,37,Yes,1
+VS0187,58,51+,Female,South,Hybrid,Tire Service,Loyal,2,31366,497.57,9,167,2,18,No,0
+VS0188,76,51+,Female,South,Truck,Repair,Returning,12,207027,862.13,1,160,1,111,No,0
+VS0189,44,36-50,Female,West,Sedan,Brake Service,Loyal,13,115483,1129.86,0,520,3,142,No,0
+VS0190,72,51+,Female,East,Truck,Inspection,Returning,18,53130,1710.24,0,455,2,10,No,0
+VS0191,22,18-25,Male,West,Truck,Brake Service,Returning,9,108170,1226.34,14,304,4,122,Yes,0
+VS0192,35,26-35,Male,South,Electric,Inspection,New,6,143696,74.5,15,94,3,21,Yes,1
+VS0193,53,51+,Female,East,Sedan,Inspection,Returning,18,112993,1302.96,7,289,3,158,No,0
+VS0194,37,36-50,Female,South,Sedan,Brake Service,Returning,14,76591,127.02,5,266,5,133,Yes,0
+VS0195,54,51+,Female,West,Sedan,Tire Service,Loyal,10,95089,1354.38,7,350,4,146,Yes,0
+VS0196,47,36-50,Female,North,Sedan,Tire Service,New,18,176604,1280.03,9,448,3,13,No,0
+VS0197,33,26-35,Female,West,Hybrid,Tire Service,New,15,185191,657.81,7,409,5,34,No,0
+VS0198,57,51+,Male,West,Truck,Inspection,Loyal,17,245559,710.13,18,133,1,73,No,1
+VS0199,18,18-25,Female,East,Electric,Repair,Returning,3,9723,736.46,5,461,1,161,Yes,0
+VS0200,49,36-50,Male,West,Hybrid,Brake Service,Loyal,11,143831,774.73,0,322,1,83,Yes,0
+VS0201,44,36-50,Male,North,Sedan,Inspection,New,2,188598,428.07,5,352,3,171,Yes,0
+VS0202,44,36-50,Female,East,Electric,Brake Service,Loyal,6,59730,999.35,16,637,3,32,No,0
+VS0203,73,51+,Female,South,SUV,Oil Change,Returning,17,146931,1441.55,1,120,3,168,Yes,0
+VS0204,20,18-25,Male,East,Truck,Inspection,New,14,86197,709.01,5,102,1,19,No,0
+VS0205,46,36-50,Male,East,Hybrid,Tire Service,Loyal,18,146306,255.28,1,565,3,128,Yes,0
+VS0206,39,36-50,Female,North,SUV,Oil Change,Loyal,13,48232,384.18,13,448,3,113,No,0
+VS0207,62,51+,Female,East,Hybrid,Oil Change,Loyal,16,179125,506.32,18,306,3,8,Yes,1
+VS0208,51,51+,Female,North,Electric,Oil Change,New,2,218997,1400.85,14,204,2,143,No,0
+VS0209,36,36-50,Male,West,SUV,Brake Service,Fleet,17,99325,353.71,2,418,3,11,No,0
+VS0210,45,36-50,Male,West,SUV,Tire Service,Loyal,17,104983,1139.73,1,162,3,55,Yes,0
+VS0211,19,18-25,Female,North,Hybrid,Tire Service,Returning,10,56666,53.57,14,481,2,161,No,0
+VS0212,43,36-50,Female,North,Sedan,Inspection,Returning,2,157849,1787.3,12,430,5,131,Yes,0
+VS0213,38,36-50,Male,North,Electric,Oil Change,Returning,15,92893,70.6,16,361,4,139,Yes,0
+VS0214,52,51+,Female,West,Truck,Oil Change,Loyal,17,158185,675.0,11,413,5,148,Yes,0
+VS0215,27,26-35,Female,West,Hybrid,Oil Change,New,14,163346,1016.4,4,243,3,42,No,0
+VS0216,51,51+,Female,South,Electric,Tire Service,New,16,190472,943.75,0,641,3,141,Yes,0
+VS0217,27,26-35,Female,North,Electric,Brake Service,Loyal,18,77062,1745.13,8,114,3,7,No,1
+VS0218,24,18-25,Male,West,Hybrid,Oil Change,Returning,4,126736,1665.46,12,545,4,10,No,0
+VS0219,54,51+,Female,East,Hybrid,Oil Change,Loyal,8,156403,825.97,4,352,5,124,Yes,0
+VS0220,54,51+,Female,North,Sedan,Tire Service,Returning,5,21044,808.49,16,159,4,26,No,1
+VS0221,44,36-50,Male,West,Electric,Repair,New,2,48791,978.3,2,264,4,74,Yes,0
+VS0222,64,51+,Male,North,Sedan,Brake Service,New,12,194739,1799.04,1,84,3,129,No,0
+VS0223,73,51+,Male,West,SUV,Tire Service,Returning,14,89411,118.34,10,641,1,38,Yes,0
+VS0224,56,51+,Male,East,Hybrid,Repair,Returning,9,195892,223.4,1,90,2,141,No,0
+VS0225,43,36-50,Male,South,Sedan,Inspection,Loyal,14,133865,105.66,7,188,3,112,No,0
+VS0226,32,26-35,Male,East,Electric,Repair,Returning,7,245604,282.2,3,220,4,119,Yes,0
+VS0227,49,36-50,Male,West,Electric,Repair,New,8,210792,1049.09,3,404,3,86,No,0
+VS0228,38,36-50,Female,North,Sedan,Inspection,Loyal,6,60138,1193.24,4,220,5,65,Yes,1
+VS0229,78,51+,Female,North,Sedan,Tire Service,Returning,8,178594,837.96,1,218,3,111,Yes,0
+VS0230,44,36-50,Male,West,Hybrid,Tire Service,Returning,11,106179,183.05,8,138,3,111,Yes,0
+VS0231,67,51+,Female,North,Hybrid,Brake Service,New,15,105800,200.4,18,329,1,20,No,1
+VS0232,51,51+,Female,East,Hybrid,Tire Service,Loyal,8,202625,1112.31,6,588,3,177,Yes,0
+VS0233,31,26-35,Female,North,SUV,Tire Service,Returning,2,72119,481.22,4,503,1,38,Yes,0
+VS0234,59,51+,Female,North,Truck,Repair,Loyal,4,216115,1743.07,18,148,4,14,No,1
+VS0235,64,51+,Male,West,Electric,Brake Service,Returning,15,75812,432.86,14,569,1,38,Yes,0
+VS0236,55,51+,Male,West,Hybrid,Inspection,Returning,9,81210,1531.07,16,414,2,124,No,0
+VS0237,38,36-50,Male,South,Sedan,Tire Service,Loyal,11,33171,1253.24,11,150,3,130,No,1
+VS0238,58,51+,Female,North,Sedan,Inspection,Loyal,12,193243,527.77,7,530,4,67,No,0
+VS0239,24,18-25,Male,East,Electric,Brake Service,Returning,6,172605,1432.53,10,553,2,150,No,0
+VS0240,77,51+,Male,East,Electric,Brake Service,Returning,5,153233,554.2,8,572,3,128,Yes,0
+VS0241,26,26-35,Male,West,Truck,Oil Change,New,4,105209,323.77,9,610,3,49,No,0
+VS0242,43,36-50,Female,East,Electric,Repair,Loyal,13,149621,97.45,4,37,2,45,Yes,1
+VS0243,71,51+,Female,North,SUV,Brake Service,Loyal,4,117685,661.66,8,252,5,39,No,1
+VS0244,59,51+,Female,North,Truck,Oil Change,Returning,12,138150,1591.17,1,501,3,67,No,0
+VS0245,68,51+,Male,South,Hybrid,Repair,Loyal,8,205624,1379.78,1,416,5,9,No,0
+VS0246,69,51+,Female,South,Electric,Tire Service,Returning,12,187398,222.14,18,324,2,14,No,1
+VS0247,57,51+,Male,North,Sedan,Inspection,Returning,5,98044,195.64,2,505,2,163,No,0
+VS0248,21,18-25,Female,West,Truck,Repair,Fleet,12,130640,1083.55,7,16,4,20,No,1
+VS0249,22,18-25,Male,South,SUV,Brake Service,Returning,8,111876,599.18,3,570,4,8,No,0
+VS0250,65,51+,Female,South,Electric,Repair,Loyal,13,203536,252.8,13,196,1,78,Yes,0
+VS0251,22,18-25,Male,East,Hybrid,Tire Service,Loyal,14,206001,169.22,6,47,2,103,Yes,0
+VS0252,67,51+,Female,East,Sedan,Tire Service,Returning,9,105926,1042.09,11,526,1,13,Yes,0
+VS0253,41,36-50,Male,East,Sedan,Brake Service,New,6,190900,135.68,11,72,3,95,No,1
+VS0254,68,51+,Female,South,Sedan,Oil Change,Returning,18,205592,702.29,3,638,3,39,No,0
+VS0255,20,18-25,Female,North,SUV,Brake Service,Loyal,5,11878,655.87,11,306,4,72,Yes,1
+VS0256,40,36-50,Male,East,SUV,Repair,Loyal,4,112887,174.99,9,522,4,118,Yes,0
+VS0257,40,36-50,Female,West,Hybrid,Tire Service,Returning,3,57238,1126.82,2,52,3,73,Yes,0
+VS0258,37,36-50,Male,South,Electric,Tire Service,Fleet,4,162451,811.86,7,273,5,112,Yes,0
+VS0259,66,51+,Female,East,Hybrid,Tire Service,New,3,230628,1761.69,11,172,1,159,Yes,0
+VS0260,58,51+,Male,West,Truck,Tire Service,Returning,1,136546,831.09,5,511,2,34,No,0
+VS0261,21,18-25,Female,East,Electric,Brake Service,Fleet,4,88216,1753.79,10,316,5,108,No,1
+VS0262,53,51+,Female,West,SUV,Inspection,Fleet,10,135381,935.97,10,581,3,123,Yes,0
+VS0263,18,18-25,Female,South,Electric,Oil Change,Returning,4,184864,1286.57,12,299,1,159,No,0
+VS0264,65,51+,Female,West,Hybrid,Inspection,Returning,7,101941,1537.26,2,648,4,72,No,0
+VS0265,75,51+,Male,East,Truck,Repair,Loyal,15,56024,422.07,17,251,2,166,Yes,0
+VS0266,38,36-50,Female,North,Sedan,Oil Change,Returning,4,117885,287.95,8,135,4,29,Yes,0
+VS0267,30,26-35,Female,North,Sedan,Inspection,Returning,17,131087,67.31,12,156,1,25,Yes,0
+VS0268,67,51+,Female,North,Sedan,Brake Service,Returning,8,158769,1648.07,14,61,4,55,Yes,1
+VS0269,27,26-35,Female,West,Truck,Brake Service,Returning,2,214941,1365.07,8,566,3,171,Yes,0
+VS0270,67,51+,Female,North,SUV,Inspection,Fleet,17,58346,1628.65,14,163,1,123,Yes,0
+VS0271,37,36-50,Female,South,Truck,Repair,Returning,15,49669,864.24,15,572,3,105,Yes,0
+VS0272,18,18-25,Male,West,Hybrid,Tire Service,Returning,14,70456,477.25,8,19,3,28,No,1
+VS0273,78,51+,Female,North,SUV,Brake Service,Loyal,5,72861,307.33,0,279,5,117,No,0
+VS0274,35,26-35,Male,West,Hybrid,Inspection,Loyal,2,85182,1041.58,0,550,4,63,No,0
+VS0275,55,51+,Female,North,Truck,Inspection,Loyal,18,183494,438.33,13,75,3,140,Yes,1
+VS0276,42,36-50,Male,South,Hybrid,Repair,Loyal,5,13888,962.24,14,645,3,105,Yes,0
+VS0277,74,51+,Male,South,Hybrid,Repair,Returning,10,99113,421.84,5,629,3,156,No,0
+VS0278,56,51+,Male,South,Hybrid,Tire Service,Loyal,10,173546,783.58,10,65,1,134,No,0
+VS0279,70,51+,Male,West,Sedan,Repair,New,17,43610,1147.17,4,249,2,145,No,0
+VS0280,47,36-50,Female,North,SUV,Tire Service,Loyal,11,252386,1136.92,14,639,2,30,No,0
+VS0281,65,51+,Female,South,Hybrid,Inspection,Returning,13,164660,1626.55,12,29,2,11,Yes,1
+VS0282,32,26-35,Male,South,SUV,Inspection,Returning,1,37863,1560.96,10,103,3,78,Yes,1
+VS0283,76,51+,Male,South,Electric,Oil Change,New,14,112918,1480.33,10,155,5,49,No,1
+VS0284,72,51+,Male,East,Sedan,Inspection,New,16,86468,941.06,17,433,2,96,No,0
+VS0285,24,18-25,Female,East,SUV,Repair,Returning,4,28205,71.76,15,254,4,104,Yes,1
+VS0286,41,36-50,Female,North,SUV,Oil Change,New,8,20522,847.12,9,223,2,24,No,0
+VS0287,40,36-50,Female,West,SUV,Inspection,Returning,13,139099,1795.58,18,77,1,72,Yes,1
+VS0288,24,18-25,Male,West,Hybrid,Tire Service,New,6,245631,1124.0,15,347,5,65,Yes,0
+VS0289,69,51+,Male,East,Sedan,Brake Service,Fleet,4,106327,525.49,10,272,2,31,No,0
+VS0290,63,51+,Female,North,SUV,Inspection,Returning,14,87971,1278.72,17,638,5,36,No,1
+VS0291,33,26-35,Male,South,Electric,Oil Change,New,10,120923,317.8,6,218,3,147,No,0
+VS0292,36,36-50,Female,West,Hybrid,Tire Service,Fleet,16,197537,925.43,0,163,2,128,No,0
+VS0293,21,18-25,Male,East,Truck,Tire Service,Returning,18,183605,217.12,4,56,2,17,No,0
+VS0294,57,51+,Male,West,Truck,Tire Service,Returning,3,60615,388.84,15,64,5,56,Yes,1
+VS0295,33,26-35,Male,North,SUV,Tire Service,Returning,16,256049,372.07,7,162,5,159,No,0
+VS0296,62,51+,Female,East,Electric,Brake Service,Loyal,18,130678,1511.99,14,121,1,5,Yes,1
+VS0297,63,51+,Female,North,Truck,Oil Change,New,1,151435,631.6,0,49,1,22,No,0
+VS0298,41,36-50,Female,South,SUV,Brake Service,New,9,74895,601.81,2,219,3,94,Yes,0
+VS0299,65,51+,Female,East,Hybrid,Tire Service,Returning,11,98569,1478.4,1,321,2,38,No,0
+VS0300,75,51+,Female,East,Sedan,Brake Service,Returning,9,85087,329.41,18,421,1,76,Yes,0
+VS0301,64,51+,Male,South,Truck,Inspection,Loyal,15,73210,249.01,8,141,4,66,Yes,1
+VS0302,49,36-50,Male,North,Electric,Oil Change,New,11,210660,896.67,6,285,2,164,Yes,0
+VS0303,78,51+,Female,East,Electric,Tire Service,Returning,6,72675,121.09,0,249,2,10,No,0
+VS0304,52,51+,Male,South,Electric,Inspection,Loyal,4,230475,1514.28,15,255,3,123,No,1
+VS0305,43,36-50,Male,North,Hybrid,Brake Service,Returning,6,193768,925.91,0,358,5,156,Yes,0
+VS0306,47,36-50,Female,West,Sedan,Brake Service,Returning,5,9475,1793.97,15,15,4,18,Yes,1
+VS0307,66,51+,Female,South,SUV,Repair,Loyal,5,245445,1415.14,4,90,3,37,Yes,0
+VS0308,62,51+,Male,East,SUV,Brake Service,Loyal,10,101875,676.42,15,400,3,29,No,1
+VS0309,77,51+,Male,South,SUV,Inspection,New,7,192975,956.39,13,467,1,125,No,0
+VS0310,50,36-50,Female,East,Sedan,Inspection,Loyal,17,155097,1709.64,2,193,2,147,No,0
+VS0311,72,51+,Female,East,Electric,Repair,Loyal,2,242923,891.23,5,24,1,74,No,0
+VS0312,60,51+,Female,North,SUV,Brake Service,Returning,10,79575,355.21,12,189,4,104,Yes,0
+VS0313,69,51+,Female,West,Hybrid,Inspection,Returning,8,71265,1048.52,16,72,4,157,Yes,1
+VS0314,66,51+,Male,West,Hybrid,Oil Change,Loyal,1,152462,465.36,2,375,4,51,Yes,0
+VS0315,57,51+,Male,North,Truck,Oil Change,Fleet,4,66193,444.21,1,25,5,79,No,0
+VS0316,51,51+,Male,North,SUV,Repair,Returning,12,19258,965.5,8,226,5,99,Yes,0
+VS0317,24,18-25,Male,South,Electric,Oil Change,Returning,4,121929,396.6,9,92,5,159,No,0
+VS0318,76,51+,Female,East,Sedan,Inspection,New,3,153878,1703.11,6,611,4,27,Yes,0
+VS0319,76,51+,Female,South,Hybrid,Tire Service,Returning,3,246032,231.06,13,113,3,110,No,1
+VS0320,37,36-50,Female,East,Sedan,Inspection,Loyal,13,72390,954.13,8,86,5,132,Yes,1
+VS0321,75,51+,Female,East,Truck,Repair,Returning,6,213394,790.84,8,335,1,35,No,0
+VS0322,39,36-50,Male,East,Truck,Brake Service,New,14,25856,122.94,0,238,5,51,No,0
+VS0323,70,51+,Female,East,Electric,Repair,Returning,4,252511,903.31,18,466,4,53,No,0
+VS0324,34,26-35,Female,South,Hybrid,Oil Change,Loyal,16,159217,1452.41,11,503,1,85,Yes,0
+VS0325,72,51+,Female,North,SUV,Tire Service,New,10,88724,631.7,1,558,1,106,No,0
+VS0326,56,51+,Male,South,Electric,Repair,New,8,200913,1708.64,8,511,3,39,Yes,0
+VS0327,39,36-50,Female,East,Truck,Repair,New,5,59786,1738.46,1,76,2,8,Yes,0
+VS0328,51,51+,Female,East,Sedan,Tire Service,Returning,9,126613,932.93,6,192,2,141,No,0
+VS0329,55,51+,Male,East,SUV,Tire Service,Returning,10,182279,1256.49,13,415,1,72,Yes,0
+VS0330,73,51+,Male,South,SUV,Repair,Loyal,6,211861,1372.81,2,117,2,75,Yes,0
+VS0331,35,26-35,Female,South,Hybrid,Brake Service,Returning,4,62538,1162.93,8,363,4,97,Yes,0
+VS0332,25,18-25,Female,West,Electric,Inspection,Returning,17,134201,456.41,1,100,3,109,Yes,0
+VS0333,75,51+,Female,West,Sedan,Oil Change,Fleet,11,168952,1311.67,12,516,1,56,No,0
+VS0334,40,36-50,Male,North,Truck,Repair,Returning,14,31832,929.94,15,67,3,164,Yes,0
+VS0335,23,18-25,Female,North,Hybrid,Inspection,New,8,87001,1758.85,7,395,1,155,No,0
+VS0336,75,51+,Male,South,SUV,Inspection,Loyal,7,52605,,17,622,5,98,Yes,0
+VS0337,72,51+,Male,West,Sedan,Oil Change,Loyal,4,37007,870.07,5,495,1,23,Yes,0
+VS0338,39,36-50,Male,East,SUV,Tire Service,Returning,6,176561,1667.94,0,178,5,57,Yes,0
+VS0339,74,51+,Male,East,Hybrid,Repair,Loyal,3,183362,838.55,14,553,3,66,No,0
+VS0340,22,18-25,Female,East,Sedan,Brake Service,New,5,195475,899.08,9,79,1,134,Yes,0
+VS0341,29,26-35,Male,West,Electric,Inspection,Loyal,1,82955,1129.45,9,282,4,132,Yes,0
+VS0342,77,51+,Female,North,Hybrid,Inspection,Loyal,5,58512,1175.83,12,22,4,85,Yes,1
+VS0343,48,36-50,Female,North,SUV,Repair,Loyal,14,204360,46.57,5,580,3,121,No,0
+VS0344,72,51+,Male,West,Sedan,Tire Service,Loyal,10,243930,365.36,3,50,1,6,No,1
+VS0345,45,36-50,Female,North,SUV,Oil Change,Fleet,18,221270,1718.09,1,519,5,138,Yes,0
+VS0346,66,51+,Female,East,Electric,Brake Service,New,18,25643,511.14,5,614,2,105,No,0
+VS0347,39,36-50,Female,South,Sedan,Oil Change,New,12,23498,260.76,12,285,3,180,Yes,0
+VS0348,52,51+,Female,East,Sedan,Oil Change,New,13,104507,218.68,1,317,2,92,No,0
+VS0349,64,51+,Female,North,SUV,Inspection,Fleet,10,221297,474.73,15,409,1,121,No,0
+VS0350,70,51+,Female,South,Truck,Brake Service,Loyal,16,81443,1419.6,10,294,1,118,Yes,0
+VS0351,75,51+,Female,West,Hybrid,Tire Service,Fleet,15,59989,1648.88,9,647,5,153,Yes,0
+VS0352,24,18-25,Male,North,Electric,Tire Service,Returning,13,232393,138.72,2,128,4,111,No,0
+VS0353,73,51+,Male,South,SUV,Tire Service,Loyal,6,131379,1752.8,17,285,4,53,No,0
+VS0354,71,51+,Male,North,Truck,Oil Change,Returning,15,257057,1633.68,12,545,2,112,Yes,0
+VS0355,18,18-25,Female,North,Truck,Repair,Loyal,1,187938,1069.98,15,396,2,88,Yes,0
+VS0356,53,51+,Female,West,SUV,Oil Change,Returning,17,69760,1406.55,17,441,4,105,Yes,0
+VS0357,64,51+,Male,West,Truck,Oil Change,New,15,154103,285.56,6,556,4,71,No,0
+VS0358,48,36-50,Female,South,SUV,Repair,Loyal,9,192969,1561.65,8,528,4,58,No,0
+VS0359,20,18-25,Female,South,Electric,Repair,Returning,9,246619,917.65,3,114,2,84,No,0
+VS0360,45,36-50,Female,East,Truck,Repair,New,8,234174,889.01,16,170,5,37,No,1
